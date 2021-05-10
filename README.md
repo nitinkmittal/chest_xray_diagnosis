@@ -27,3 +27,9 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+
+### Important commmands ###
+* To see ports from running python application
+```bash
+ps -fA | grep python
+```

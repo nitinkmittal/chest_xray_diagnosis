@@ -21,8 +21,10 @@ dependencies:
   - pip:
       # - ipywidgets==7.6.3
       # - jupyter-server-proxy==3.0.2
+      - fastapi==0.64.0
       - lxml==4.6.3
       - pickle-mixin==1.0.2  
       - torch==1.8.1
       - torchvision==0.9.1
       # - tensorboard==2.5.0
+      - uvicorn==0.13.4
