@@ -140,9 +140,10 @@ dmypy.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-# folders to omit 
+# folders and files to omit 
 */dask-worker-space
 .vscode
+*.code-workspace
 data
 
 # dask .out files
