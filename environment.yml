@@ -10,6 +10,7 @@ dependencies:
   # - nodejs=15.14.0
   - numpy=1.19.2
   - pandas=1.2.3
+  - pandera
   - pip=21.0.1
   - python=3.9.2
   - pylint=2.7.2
