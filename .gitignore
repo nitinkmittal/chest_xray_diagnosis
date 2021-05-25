@@ -145,6 +145,7 @@ dmypy.json
 .vscode
 *.code-workspace
 data
+metadata
 
 # dask .out files
 *.out

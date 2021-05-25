@@ -27,3 +27,16 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+
+
+
+### SetUp Commands ###
+```bash
+conda env create -f environment.yml
+conda activate chest_xray_diagnosis
+pip install kaggle
+kaggle competitions download -c vinbigdata-chest-xray-abnormalities-detection
+```
+
+### Data ###
+To directly download the data from kaggle use [link](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data)`

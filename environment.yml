@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - black=21.4b0
+  - pydicom
   - ipykernel=5.5.3
   - isort=5.8.0
   - jupyterlab=3.0.12
